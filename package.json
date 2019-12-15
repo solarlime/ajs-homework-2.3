@@ -1,0 +1,23 @@
+{
+  "name": "ajs-homework-2.3",
+  "version": "1.0.0",
+  "description": "Homework 2.3 for Advanced JS course",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solarlime/ajs-homework-2.3.git"
+  },
+  "author": "solarlime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solarlime/ajs-homework-2.3/issues"
+  },
+  "homepage": "https://github.com/solarlime/ajs-homework-2.3#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
